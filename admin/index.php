@@ -30,7 +30,7 @@
 
             <div class="col-4 text-center">
                 <h1>5</h1>
-                Catagories
+                Catagories a
             </div>
 
         </div>
