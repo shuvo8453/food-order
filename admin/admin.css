@@ -20,6 +20,11 @@
     text-align: center;
 }
 
+.clearfix{
+    float: none;
+    clear: both;
+}
+
 /* CSS for Menu*/
 /* .menu{
     border-bottom: 1px solid gray;
@@ -42,14 +47,16 @@
 
 /*CSS for main content*/
 .main-content{
-    margin: 1% 0;
-    background-color: #f1f2f6;    
+    background-color: #f1f2f6;
+    padding: 3%;
 }
+
 .col-4{
-    width: 20%;
+    width: 18%;
     background-color: white;
     margin: 1%;
     padding: 2%; 
+    float: left;
 }
 
 /* CSS for footer */
